@@ -54,7 +54,8 @@ with tab2:
     st.image("dfgfdg.jpg", caption="", width = 400)
     st.image("dsads.jpg", caption="", width = 400)
     st.image("eda.jpg", caption="", width = 400)
-    
+    st.image("fhsdhfd.jpg", caption="", width = 400)
+#git push -f origin main , git commit -m "test"
     col_p1, col_p2 = st.columns(2)
     with col_p1:
         with st.container(border=True):
