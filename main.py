@@ -106,7 +106,7 @@ with tab2:
 
                 if 'target_num' not in st.session_state:
                     st.session_state.target_num = random.randint(1, 50)
-                    st.seesion_state.attempts = 0
+                    st.session_state.attempts = 0
 
                 guess = st.number_input("ใส่ตัวเลขที่ทาย :", min_value=1, max_value=50, step=1)
 
